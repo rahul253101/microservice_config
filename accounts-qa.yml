@@ -4,7 +4,7 @@ server:
       on-profile: "prod"
 
 build:
-  version: "10.0"
+  version: "2.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
@@ -15,3 +15,4 @@ accounts:
     - (666) 265-3765
 
     - (666) 734-8371
+
