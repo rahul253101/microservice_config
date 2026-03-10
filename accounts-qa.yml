@@ -4,7 +4,7 @@ server:
       on-profile: "prod"
 
 build:
-  version: "2.0"
+  version: "10.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
@@ -13,4 +13,5 @@ accounts:
     email: "smitha@eazybank.com"
   onCallSupport:
     - (666) 265-3765
+
     - (666) 734-8371
